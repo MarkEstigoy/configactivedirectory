@@ -39,14 +39,51 @@ Next we will create the second VM , this will be Client-1
 <img src="https://i.ibb.co/6w7Bv6J/step1-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The next step is too change DC-1's NIC private IP address too "static" 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/nBgt5s0/step1-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/QXZzsq7/step1-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/F7yMTqZ/step1-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<br />
+<br />
+Now we connect to DC-1 via remote desktop and install active directory, select "Add roles and features" 
 </p>
 <br />
+
+<img src="https://i.ibb.co/X3wBTCq/step1-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Click the "Active Directory Domain Services" option too install 
+</p>
+<br />
+<img src="https://i.ibb.co/gy5G5kK/step1-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Keep clicking next until you reach the end and press "install" too complete 
+</p>
+<br />
+<img src="https://i.ibb.co/pPRL4tg/step1-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once it finishes installing, close the window and click on the flag with a yellow warning sign 
+</p>
+<br />
+<img src="https://i.ibb.co/QfS4RGY/step2-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Click on "Promote this server to a domain controller"
+</p>
+<br />
+<img src="https://i.ibb.co/FsvbW04/step2-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Click on "Add a new forest" , name your new domain afterwards
+</p>
+<br />
+<img src="https://i.ibb.co/PtkVdPC/step2-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
