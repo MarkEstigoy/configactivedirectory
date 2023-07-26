@@ -110,3 +110,12 @@ Once you log back on, click on the tools tab in server manager and click "Active
 </p>
 <br />
 <img src="https://i.ibb.co/MMzXt2z/step2-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Find the "Organizational Unit" tab and create folders "_EMPLOYEES" and "_ADMINS", this is where we will put the new accounts for the domain
+</p>
+<br />
+<img src="https://i.ibb.co/TMD1JRk/step2-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/r6nLBR3/step2-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/ctdJ1cJ/step2-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
