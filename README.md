@@ -118,4 +118,23 @@ Find the "Organizational Unit" tab and create folders "_EMPLOYEES" and "_ADMINS"
 <img src="https://i.ibb.co/TMD1JRk/step2-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/r6nLBR3/step2-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/ctdJ1cJ/step2-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next we will create a new user and make it an admin 
+</p>
+<br />
+<img src="https://i.ibb.co/V94y12h/step3-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Fill in the blanks and create the name you want for the admin. We are going with "Jane Doe" for this lab. Press next once completed
+</p>
+<br />
+<img src="https://i.ibb.co/j6yxZhp/step3-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Create a new password for the account
+</p>
+<br />
+<img src="https://i.ibb.co/8Bdyr9H/step3-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
