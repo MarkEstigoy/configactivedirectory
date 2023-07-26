@@ -136,5 +136,23 @@ Create a new password for the account, check the password never expires box and 
 </p>
 <br />
 <img src="https://i.ibb.co/8Bdyr9H/step3-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once we have created the account, we want too promote it too an admin. To do this, first right click on the name and press "properties"
+</p>
+<br />
+<img src="https://i.ibb.co/3mXht7B/step3-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once the tab pops up, click on "Member Of" and press "Add" 
+</p>
+<br />
+<img src="https://i.ibb.co/TcQjv4S/step3-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Type in "Domain admins" and press "Check Names", once it verifies press "OK" too add 
+</p>
+<br />
+<img src="https://i.ibb.co/2NTMT5P/step3-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
