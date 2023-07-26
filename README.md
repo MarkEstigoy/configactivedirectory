@@ -132,7 +132,7 @@ Fill in the blanks and create the name you want for the admin. We are going with
 <img src="https://i.ibb.co/j6yxZhp/step3-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-Create a new password for the account
+Create a new password for the account, check the password never expires box and click next afterwards
 </p>
 <br />
 <img src="https://i.ibb.co/8Bdyr9H/step3-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
