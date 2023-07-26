@@ -154,5 +154,23 @@ Type in "Domain admins" and press "Check Names", once it verifies press "OK" too
 </p>
 <br />
 <img src="https://i.ibb.co/2NTMT5P/step3-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+You should now see "Domain Admins" be included in the "Members Of" section. Press apply and click OK afterwards 
+</p>
+<br />
+<img src="https://i.ibb.co/c6YzxN6/step3-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once thats completed, "Jane Doe" is now an admin. We will now try too login into the domain controller as Jane Doe. 
+</p>
+<br />
+<img src="https://i.ibb.co/rH1dwrJ/step3-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+We can now see that we have logged into the VM with a new user we have just created! 
+</p>
+<br />
+<img src="https://i.ibb.co/YjGthZw/step3-8.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
