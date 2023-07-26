@@ -86,4 +86,27 @@ Click on "Add a new forest" , name your new domain afterwards
 </p>
 <br />
 <img src="https://i.ibb.co/PtkVdPC/step2-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+</p>
+<br />
+Give your domain a password 
+</p>
+<br />
+<img src="https://i.ibb.co/rZXQqkh/step2-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Keep clicking next until you reach "Prerequisites check" and click install. (NOTE- Once it finishes installing the VM will restart)
+</p>
+<br />
+<img src="https://i.ibb.co/Jqr8spw/step2-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once it restarts, you will want too log back in starting with the root domain name. "mydomain.com\labuser1"
+</p>
+<br />
+<img src="https://i.ibb.co/6v6S6PC/step2-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once you log back on, click on the tools tab in server manager and click "Active Directory Users and Computers" 
+</p>
+<br />
+<img src="https://i.ibb.co/MMzXt2z/step2-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
