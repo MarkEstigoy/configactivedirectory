@@ -226,6 +226,46 @@ We can now log into Client-1 using "mydomain.com\jane_admin" since we've added C
 </p>
 <br />
 <img src="https://i.ibb.co/ry3SGCX/step4-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Open system properties and click "Remote Desktop". Type in "Domain Users" too allow access to remote desktop 
+</p>
+<br />
+<img src="https://i.ibb.co/m0gMg18/step4-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once you press OK, this tab will pop up too verify. Press OK to finalize the change. You can now log into Client-1 as a non-adminstrative user now
+</p>
+<br />
+<img src="https://i.ibb.co/PGMJnpc/step4-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Log back into DC-1 as jane_admin. Once in, open up Windows Powershell ISE (NOTE- Make sure when you open Powershell you must "Run as Administrator"
+</p>
+<br />
+<img src="https://i.ibb.co/740V2C9/step5-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once Powershell opens up, create a new file and copy and paste this script onto there. (https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1) 
+</p>
+Press the GREEN start button too RUN the script
+<br />
+<img src="https://i.ibb.co/1QH3mrd/step5-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+You can now see the script running and creating users. We can see the created profiles under the "_EMPLOYEES" folder we made previously 
+</p>
+<br />
+<img src="https://i.ibb.co/W55Ntj4/step5-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/nL0HG2H/step5-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next we will test if the new created users can log into Client-1. Pick any user that has just been created, for this test we pick "bara.jaj". 
+</p>
+(NOTE- The P/W will be on the provided link too the script. The P/W for all the new users is "Password1"
+<br />
+<img src="https://i.ibb.co/MVjZtH0/step5-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 
 
