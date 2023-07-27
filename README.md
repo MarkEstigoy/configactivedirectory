@@ -214,6 +214,19 @@ You must now enter an account that has permission to join the domain. Use the ac
 </p>
 <br />
 <img src="https://i.ibb.co/DCMpS1H/step4-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+If we log back onto DC-1, we can see that "Client-1" now shows up on the "Computers" folder tab! 
+</p>
+<br />
+<img src="https://i.ibb.co/VVhbnRJ/step4-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+We can now log into Client-1 using "mydomain.com\jane_admin" since we've added Client-1 too the Domain Controller. 
+</p>
+<br />
+<img src="https://i.ibb.co/ry3SGCX/step4-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 
 
