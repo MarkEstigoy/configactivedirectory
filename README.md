@@ -265,6 +265,16 @@ Next we will test if the new created users can log into Client-1. Pick any user 
 (NOTE- The P/W will be on the provided link too the script. The P/W for all the new users is "Password1"
 <br />
 <img src="https://i.ibb.co/MVjZtH0/step5-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+You have now logged in with the new user!
+</p>
+<br />
+<img src="https://i.ibb.co/RcjxxpG/step5-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Congratulations you have now completed the lab!
+
 
 
 
