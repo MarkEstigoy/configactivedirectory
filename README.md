@@ -186,6 +186,7 @@ Once you get DC's private ip address, navigate your way too Client-1's DNS serve
 <img src="https://i.ibb.co/R0PcV1y/step4-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <b />
+Once thats completed, we must restart Client-1. We can find the restart button by clicking on Client-1 on azure. 
 
 </p>
 <b />
