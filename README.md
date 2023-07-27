@@ -172,5 +172,26 @@ We can now see that we have logged into the VM with a new user we have just crea
 </p>
 <br />
 <img src="https://i.ibb.co/YjGthZw/step3-8.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+The next step is too change Client-1's DNS settings too DC-1's private ip address. First we must find DC's private ip address, it should be under the public ip address
+</p>
+<br />
+<img src="https://i.ibb.co/kgg6n9q/step3-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once you get DC's private ip address, navigate your way too Client-1's DNS servers settings. Click on the "DNS servers" tab, press custom and copy/paste DC's private ip address onto there. Press Save afterwards too complete the change
+</p>
+<br />
+<img src="https://i.ibb.co/R0PcV1y/step4-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<b />
+
+</p>
+<b />
+<img src="https://i.ibb.co/KVGNtCD/step4-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<b />
+
 
 
