@@ -187,12 +187,33 @@ Once you get DC's private ip address, navigate your way too Client-1's DNS serve
 </p>
 <br />
 Once thats completed, we must restart Client-1. We can find the restart button by clicking on Client-1 on azure. 
-
 </p>
 <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/KVGNtCD/step4-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+Next we will want to log into Client-1. We will do this by using the regular account (labuser1)
+</p>
+<br />
+<img src="https://i.ibb.co/prJxxVW/step4-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next we will want too join Client-1 too the domain controller. Press the "Rename this PC (advanced)" settings and press "Change" 
+</p>
+<br />
+<img src="https://i.ibb.co/WH8HD7r/step4-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Press the "Member Of" option and type in DC's domain name. (mydomain.com) Press OK after
+</p>
+<br />
+<img src="https://i.ibb.co/TPpNRrn/step4-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+You must now enter an account that has permission to join the domain. Use the account admin that we made previously (mydomain.com\jane_admin)
+</p>
+<br />
+<img src="https://i.ibb.co/DCMpS1H/step4-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
